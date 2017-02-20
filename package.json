@@ -1,6 +1,6 @@
 {
     "name": "node-tester",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "Run your tests on every version of node, locally",
     "license": "MIT",
     "homepage": "https://github.com/gabrielcsapo/node-tester#readme",
