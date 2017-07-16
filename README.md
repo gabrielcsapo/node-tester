@@ -1,5 +1,7 @@
 # node-tester
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/gabrielcsapo/node-tester.svg)](https://greenkeeper.io/)
+
 > Run your node tests in all versions of node
 
 [![Npm Version](https://img.shields.io/npm/v/node-tester.svg)](https://www.npmjs.com/package/node-tester)
